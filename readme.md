@@ -3,6 +3,8 @@ Pyrenren
 
 一个用python编写的人人小工具
 
+如你所见 大概是坑掉了
+
 TODO
 ----
 
